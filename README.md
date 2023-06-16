@@ -5,7 +5,7 @@
 
 #IDE utilizada na realização do projeto: Apache NetBeans IDE 17.
 
-# Realizado pelos DEV’s: Douglas Santana, Lucas Eduardo, Matheus Silva, Vitor Almeida.
+#Realizado pelos DEV's: Douglas Santana, Lucas Eduardo, Matheus Silva, Vitor Almeida.
 
 
 
