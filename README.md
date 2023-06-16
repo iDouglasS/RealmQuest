@@ -1,28 +1,16 @@
 # RealmQuest: Desafio dos Códigos
-projeto da matéria de programação de soluções computacionais ministrada pelo professor Gustavo Alves Fernandes.
+#Projeto da faculdade (UNIBH) da matéria de Programação de Soluções computacionais, ministrada pelo professor Gustavo Alves Fernandes. Que consiste em um jogo de perguntas e respostas utilizando POO.
 
-Realizado pelos devs: Douglas Santana
-                                       Lucas Eduardo
-                                       Matheus Silva
-                                       Vitor Almeida
-                                       
-O jogo se baseia em uma batalha entre 2 jogadores.
+#Desenvolvido na Linguagem de programação JAVA.
 
- Os jogadores escolhem os personagens que estão disponíveis no sistema.
- 
-Um sorteio aleatório será feito para decidir quem irá jogar o dado e começar a responder as perguntas.
+#IDE utilizada na realização do projeto: Apache NetBeans IDE 17.
 
-em uma rodada, uma pergunta é sorteada, e os dois jogadores devem responder a opção escolhida para a mesma pergunta.
+# Realizado pelos DEV’s: Douglas Santana, Lucas Eduardo, Matheus Silva, Vitor Almeida.
 
- Uma pergunta não se repetirá entre as rodadas.
- 
- Se um jogador errar, a quantidade de vida é reduzida.
- 
- Novos atributos e novas classes podem ser adicionados conforme a necessidade.
- 
- Um nome criativo para o jogo deve ser escolhido e mostrado na tela inicial.
- 
- não é permitido começar uma partida sem os personagens.
- 
-não é permitido ter tempo de vida negativo.
+
+
+
+
+
+
 
